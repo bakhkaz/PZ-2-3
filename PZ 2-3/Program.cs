@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using PZ_2_3;
+using System.Collections.Generic;
+
 
